@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Broos_Gerrit_PRG282_prj", "Broos_Gerrit_PRG282_prj\Broos_Gerrit_PRG282_prj.csproj", "{163BDE15-A652-4339-99C0-D428655B0463}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{163BDE15-A652-4339-99C0-D428655B0463}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{163BDE15-A652-4339-99C0-D428655B0463}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{163BDE15-A652-4339-99C0-D428655B0463}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{163BDE15-A652-4339-99C0-D428655B0463}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {087B77E6-1141-43BC-BB04-729DDA2A90D5}
+	EndGlobalSection
+EndGlobal
