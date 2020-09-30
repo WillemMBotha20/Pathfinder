@@ -117,4 +117,38 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="mainmenuback" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mainmenuback.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="border2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\border.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="border" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\border.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mtn-graph-dribbbble" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mtn-graph-dribbbble.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mtn-graph-dribbbble1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mtn-graph-dribbbble1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mainmenuback1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mainmenuback1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="army_aircrafts-wallpaper-1152x720" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\army_aircrafts-wallpaper-1152x720.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SciFi_LoaderBlue" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\SciFi_LoaderBlue.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="border1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\border1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="419-4190551_tech-border-blue-futuristic-png-and-psd-transparent" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\419-4190551_tech-border-blue-futuristic-png-and-psd-transparent.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="plane_trun" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\plane_trun.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>

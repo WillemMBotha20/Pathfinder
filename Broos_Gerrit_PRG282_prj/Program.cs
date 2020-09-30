@@ -16,7 +16,7 @@ namespace Broos_Gerrit_PRG282_prj
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmSim());
+            Application.Run(new MainMenu());
         }
     }
 }

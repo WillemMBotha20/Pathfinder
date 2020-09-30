@@ -28,3 +28,5 @@ C:\Users\snipe\OneDrive\Desktop\Belgium 2nd Year\PRG282\GitProject\Broos_Gerrit_
 C:\Users\snipe\OneDrive\Desktop\Belgium 2nd Year\PRG282\GitProject\Broos_Gerrit_PRG282_prj\Broos_Gerrit_PRG282_prj\obj\Debug\Broos_Gerrit_PRG282_prj.csproj.CoreCompileInputs.cache
 C:\Users\snipe\OneDrive\Desktop\Belgium 2nd Year\PRG282\GitProject\Broos_Gerrit_PRG282_prj\Broos_Gerrit_PRG282_prj\obj\Debug\Broos_Gerrit_PRG282_prj.exe
 C:\Users\snipe\OneDrive\Desktop\Belgium 2nd Year\PRG282\GitProject\Broos_Gerrit_PRG282_prj\Broos_Gerrit_PRG282_prj\obj\Debug\Broos_Gerrit_PRG282_prj.pdb
+C:\Users\snipe\OneDrive\Desktop\Belgium 2nd Year\PRG282\GitProject\Broos_Gerrit_PRG282_prj\Broos_Gerrit_PRG282_prj\obj\Debug\Broos_Gerrit_PRG282_prj.MainMenu.resources
+C:\Users\snipe\OneDrive\Desktop\Belgium 2nd Year\PRG282\GitProject\Broos_Gerrit_PRG282_prj\Broos_Gerrit_PRG282_prj\obj\Debug\Broos_Gerrit_PRG282_prj.Settings.resources

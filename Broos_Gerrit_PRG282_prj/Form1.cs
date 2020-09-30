@@ -36,6 +36,17 @@ namespace Broos_Gerrit_PRG282_prj
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+
+            //Method 1. center at initilization
+            this.StartPosition = FormStartPosition.CenterScreen;
+
+            //Method 2. The manual way
+            this.StartPosition = FormStartPosition.Manual;
+            this.Top = (Screen.PrimaryScreen.Bounds.Height - this.Height) / 2;
+            this.Left = (Screen.PrimaryScreen.Bounds.Width - this.Width) / 2;
+
+
             dgvGame.DefaultCellStyle.NullValue = null;
             for (int i = 0; i < 7; i++)
             {

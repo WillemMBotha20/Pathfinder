@@ -52,11 +52,26 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="MainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainMenu.Designer.cs">
+      <DependentUpon>MainMenu.cs</DependentUpon>
+    </Compile>
     <Compile Include="Obstacle.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Settings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Settings.Designer.cs">
+      <DependentUpon>Settings.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainMenu.resx">
+      <DependentUpon>MainMenu.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -68,6 +83,9 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="Settings.resx">
+      <DependentUpon>Settings.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -95,6 +113,39 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\TWENTYONEPILOTS_ROCKSOUND_BRADHEATON2018_01.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mainmenuback.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mainmenuback1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\army_aircrafts-wallpaper-1152x720.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\border.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mtn-graph-dribbbble.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mtn-graph-dribbbble1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SciFi_LoaderBlue.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\419-4190551_tech-border-blue-futuristic-png-and-psd-transparent.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\border1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\border.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plane_trun.gif" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
